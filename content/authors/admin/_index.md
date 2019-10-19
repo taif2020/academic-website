@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D.Student at T&T
+role: Student at T&T
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-
++
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -71,3 +71,5 @@ user_groups:
 ---
 
 Just another demo site.
+
+This is my first site. It will be my own world. I hope you enjoy it. 
