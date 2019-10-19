@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Student at T&T
+role: Ph.D.Student at T&T
 
 # Organizations/Affiliations
 organizations:
