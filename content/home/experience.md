@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2004-01-01"
   date_end = ""
   description = """English Teacher"""
-+
+
 [[experience]]
   title = "Student at T&T"
   company = "University of Central Florida"
