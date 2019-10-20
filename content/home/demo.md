@@ -27,7 +27,7 @@ subtitle = ""
   # Background gradient.
   gradient_start = "DarkGreen"
   gradient_end = "ForestGreen"
-+
+
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -42,7 +42,7 @@ subtitle = ""
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
 
-+
+
 [advanced]
  # Custom CSS.
  css_style = ""
