@@ -21,21 +21,18 @@ date_format = "Jan 2006"
   title = "English Teacher"
   company = "Ministry of Education"
   company_url = ""
-  location = "Saudi Arabia"
+  location = "Tabuk"
   date_start = "2004-01-01"
   date_end = "2009-04-30"
-  description = """Student at T&T"""
-  Responsibilities include:
-
-
+  description = """English Teacher for High school students"""
 
 [[experience]]
-  title = "English Teacher"
-  company = "Ministry of Education"
-  company_url = ""
-  location = "Saudi Arabia"
-  date_start = "2004-01-01"
-  date_end = "2009-04-30"
-  description = """Taught English Language for High school students."""
+  title = "Student at T&T"
+  company = "University of Central Florida"
+
+  location = "Florida"
+  date_start = "2019-08-26"
+  date_end = "2023-04-30"
+  description = """A PhD student at T&T"""
 
 +++
