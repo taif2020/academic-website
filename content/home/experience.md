@@ -23,16 +23,14 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Tabuk"
   date_start = "2004-01-01"
-  date_end = "2009-04-30"
-  description = """English Teacher for High school students"""
+  date_end = ""
+  description = """English Teacher"""
 
 [[experience]]
   title = "Student at T&T"
   company = "University of Central Florida"
-
+  company_url = ""
   location = "Florida"
   date_start = "2019-08-26"
   date_end = "2023-04-30"
-  description = """A PhD student at T&T"""
-
-+++
+  description = """student"""
