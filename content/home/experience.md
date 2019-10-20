@@ -23,22 +23,19 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Saudi Arabia"
   date_start = "2004-01-01"
-  date_end = "2009-01-01"
-  description = """
+  date_end = "2009-04-30"
+  description = """Student at T&T"""
   Responsibilities include:
 
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "English Teacher"
+  company = "Ministry of Education"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Saudi Arabia"
+  date_start = "2004-01-01"
+  date_end = "2009-04-30"
+  description = """Taught English Language for High school students."""
 
 +++
