@@ -20,11 +20,12 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Student at T&T"
   company = "University of Central Florida"
-  company_url = "https://tandt.cah.ucf.edu"
+  company_url = ""
   location = "Florida"
   date_start = "2019-08-26"
   date_end = "2023-05-01"
   description = """student"""
+
   [[experience]]
     title = "English Teacher"
     company = "Ministry of Education"
