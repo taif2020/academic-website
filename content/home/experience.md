@@ -25,12 +25,12 @@ date_format = "Jan 2006"
   date_start = "2004-01-01"
   date_end = ""
   description = """English Teacher"""
-
++
 [[experience]]
   title = "Student at T&T"
   company = "University of Central Florida"
   company_url = ""
   location = "Florida"
   date_start = "2019-08-26"
-  date_end = "2023-04-30"
+  date_end = ""
   description = """student"""
