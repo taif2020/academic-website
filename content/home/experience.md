@@ -25,7 +25,6 @@ date_format = "Jan 2006"
   date_start = "2019-08-26"
   date_end = "2023-05-01"
   description = """student"""
-
   [[experience]]
     title = "English Teacher"
     company = "Ministry of Education"
@@ -34,20 +33,3 @@ date_format = "Jan 2006"
     date_start = "2004-01-01"
     date_end = "2009-04-15"
     description = """teacher"""
-
-
-
-
-
-
-
-
-
-[[experience]]
-  title = "English Teacher"
-  company = "Ministry of Education"
-  company_url = "https://www.moe.gov.sa"
-  location = "Tabuk"
-  date_start = "2004-01-01"
-  date_end = "2009-04-25"
-  description = """English Teacher"""
