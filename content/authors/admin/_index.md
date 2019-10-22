@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have worked as a teacher in Saudi Arabia, teaching English and mathematics to students in primary through secondary levels. I am also fluent in English, which allows me to enjoy excellent interpersonal communication with my American colleagues, professors, and fellow students. In 2011, I earned King Abdullah Scholarship to pursue my master degree in English.
+bio: My research interests in cryptology and steganography.
 
 interests:
 - cryptology
