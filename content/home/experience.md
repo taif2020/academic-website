@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Florida"
   date_start = "2019-08-26"
-  date_end = "2023-05-01"
+  date_end = ""
   description = """student"""
 
   [[experience]]
@@ -34,15 +34,5 @@ date_format = "Jan 2006"
     date_start = "2004-01-01"
     date_end = "2009-04-15"
     description = """teacher"""
-
-
-
-
-
-
-
-
-
-
 
  +++
