@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "hajerali@knights.ucf.edu"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Just another demo site.
+Information about me.
 
-This is my first site. It will be my own world. I hope you enjoy it.
+I am Hajer Albalawi. I have worked as a teacher in Saudi Arabia, teaching English and mathematics to students in primary through secondary levels.  In 2011, I earned King Abdullah Scholarship to pursue my master degree in English. Now, I am pursing my Ph.D. in Texts and Technology at the University of Central Florida.
