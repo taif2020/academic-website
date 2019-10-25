@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Information about me.
+Brief Summary about me.
 
 I am Hajer Albalawi. I have worked as a teacher in Saudi Arabia, teaching English to students in primary through secondary levels.  In 2011, I earned King Abdullah Scholarship to pursue my master degree in English. Now, I am pursing my Ph.D. in Texts and Technology at the University of Central Florida.
