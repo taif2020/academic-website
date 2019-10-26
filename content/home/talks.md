@@ -69,14 +69,14 @@ subtitle = ""
 +++
 
 ---
-title: "Cryptology, Steganography and Propaganda: The Exclusion and Inclusion Roles of Language in Human Communication"
-[Hajer Albalawi]
-2019-05-28
+Title: "Cryptology, Steganography and Propaganda: The Exclusion and Inclusion Roles of Language in Human Communication"
+Author [Hajer Albalawi]
+Period 2019-05-28 to 2019-06-03
 
 
- # Conference paper
+ Conference paper
 
- # International Journal of Arts and Sciences.
+ Conference Name: International Journal of Arts and Sciences.
 
- summary: "presentation at the International Journal of Arts & Sciences’ (IJAS) International Conference for Academic Disciplines which held at Harvard Medical School New Research Building, 77 Avenue Louis Pasteur, Boston, Massachusetts. The conference ran from May 28 to June 1, 2019. On May 31, in the evening, we had a poster session at MIT, 265 Massachusetts Avenue, Cambridge, Massachusetts"
+ summary: "It was a presentation at the International Journal of Arts & Sciences’ (IJAS) International Conference for Academic Disciplines which held at Harvard Medical School New Research Building. The conference ran from May 28 to June 1, 2019. On May 31."
 ---
