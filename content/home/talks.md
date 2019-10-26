@@ -70,22 +70,13 @@ subtitle = ""
 
 ---
 title: "Cryptology, Steganography and Propaganda: The Exclusion and Inclusion Roles of Language in Human Communication"
- authors: [Hajer Albalawi]
- date: 2019-05-28T20:31:03-04:00
- doi: ""
+[Hajer Albalawi]
+2019-05-28
 
- # Publication type.
- # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
- # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
- # 7 = Thesis; 8 = Patent
- publication_types: ["2"]
 
- # Publication name and optional abbreviated publication name.
- publication: "IJAS"
- publication_short: ""
+ # Conference paper
 
- abstract: ""
+ # International Journal of Arts and Sciences.
 
- # Summary. An optional shortened abstract.
- summary: ""
+ summary: "presentation at the International Journal of Arts & Sciences’ (IJAS) International Conference for Academic Disciplines which held at Harvard Medical School New Research Building, 77 Avenue Louis Pasteur, Boston, Massachusetts. The conference ran from May 28 to June 1, 2019. On May 31, in the evening, we had a poster session at MIT, 265 Massachusetts Avenue, Cambridge, Massachusetts"
 ---
