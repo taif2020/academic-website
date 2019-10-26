@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "Zotero"
+  icon = "zotero"
   icon_pack = "ai"
   name = "Zotero"
   description = "100%"
