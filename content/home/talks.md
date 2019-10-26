@@ -1,5 +1,5 @@
 +++
- title: "Cryptology, Steganography and Propaganda: The Exclusion and Inclusion Roles of Language in Human Communication"
+ title: Cryptology, Steganography and Propaganda: The Exclusion and Inclusion Roles of Language in Human Communication
  event: International Journal of Arts and Sciences
  event_url:
  location: Boston
