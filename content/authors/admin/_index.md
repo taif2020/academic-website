@@ -33,7 +33,7 @@ education:
   - course: MA in English
     institution: Gannon University
     year: 2014
-  - course: BSc in English
+  - course: BA in English
     institution: Tabuk University
     year: 2004
 
