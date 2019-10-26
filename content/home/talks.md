@@ -1,6 +1,4 @@
 +++
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
  title: "Cryptology, Steganography and Propaganda: The Exclusion and Inclusion Roles of Language in Human Communication"
  event: International Journal of Arts and Sciences
  event_url:
