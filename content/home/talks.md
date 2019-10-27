@@ -74,7 +74,7 @@ subtitle = ""
  June 28,2019 2:15 PM.
 
  Boston
- 
-  https://www.slideshare.net/MsHajerAlbalawi/ijas-presentation
+
+  
 
 ---
