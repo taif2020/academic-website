@@ -71,5 +71,6 @@ subtitle = ""
 ---
  Cryptology, Steganography and Propaganda: The Exclusion and Inclusion Roles of Language in Human Communication.
  June 28,2019 2:15 PM. Boston
- {https://www.slideshare.net/MsHajerAlbalawi/ijas-presentation}
+ url_slides: https://www.slideshare.net/secret/t9DQU90PQTdgP3
+
 ---
