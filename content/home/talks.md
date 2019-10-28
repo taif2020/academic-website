@@ -27,7 +27,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "Conference Presentation"
+    publication_type = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
@@ -38,7 +38,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -67,3 +67,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+---
+ Cryptology, Steganography and Propaganda: The Exclusion and Inclusion Roles of Language in Human Communication.
+ June 28,2019 2:15 PM.
+ Boston
+  https://www.slideshare.net/MsHajerAlbalawi/ijas-presentation
+
+---
