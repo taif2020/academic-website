@@ -11,7 +11,7 @@ view: 2
 header:
   caption: ""
   image: ""
----
++++
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: " Cryptology, Steganography and Propaganda: The Exclusion and Inclusion Roles of Language in Human Communication"
@@ -78,4 +78,4 @@ slides: ""
 # E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 # Otherwise, set `projects = []`.
 projects: []
----
++++
