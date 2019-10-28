@@ -68,73 +68,13 @@ subtitle = ""
  css_class = ""
 +++
 
-
 ---
-Documentation: https://sourcethemes.com/academic/docs/managing-content/
+ Cryptology, Steganography and Propaganda: The Exclusion and Inclusion Roles of Language in Human Communication.
 
-# title: "Cryptology, Steganography and Propaganda: The Exclusion and Inclusion Roles of Language in Human Communication"
-# event: International Journal of Arts and Sciences
-- event_url:
-- location: Seattle
-- address:
-- street:
-city: Boston
-- region:
-- postcode:
-- country:
-- summary:
-- abstract:
+ June 28,2019 2:15 PM.
 
- Talk start and end times.
-End time can optionally be hidden by prefixing the line with `#`.
-# 2019-05-28 T20:40:11-04:00
-date_end: 2019-01-06T20:40:11-04:00
-all_day: false
+ Boston
 
-Schedule page publish date (NOT talk date).
-publishDate: 2019-10-09T20:40:11-04:00
-
-# Hajer Albalawi
-tags: []
-
-Is this a featured talk? (true/false)
-featured: false
-
-Featured image
-To use, add an image named `featured.jpg/png` to your page's folder.
-Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-caption: ""
-focal_point: ""
-preview_only: false
-
-Custom links (optional).
-Uncomment and edit lines below to show custom links.
-links:
-- name: Follow
-url: https://twitter.com
-icon_pack: fab
-icon: twitter
-
-Optional filename of your slides within your talk's folder or a URL.
-#url_slides: https://www.slideshare.net/MsHajerAlbalawi/ijas-presentation
-
-url_code:
-url_pdf:
-url_video:
-
-Markdown Slides (optional).
-Associate this talk with Markdown slides.
-Simply enter your slide deck's filename without extension.
-# E.g. `slides = "https://www.slideshare.net/MsHajerAlbalawi/ijas-presentation"` references `content/slides/example-slides.md`.
-Otherwise, set `slides = ""`.
-slides: "https://www.slideshare.net/MsHajerAlbalawi/ijas-presentation"
-
-Projects (optional).
-Associate this post with one or more of your projects.
-Simply enter your project's folder or file name without extension.
-E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-Otherwise, set `projects = []`.
-projects: []
+  https://www.slideshare.net/MsHajerAlbalawi/ijas-presentation
 
 ---
