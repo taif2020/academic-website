@@ -13,7 +13,7 @@ header:
   image: ""
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
++++
 title: "Plundered Hearts: The Mostly Forgotten History of Romance Games"
 event: Society for Cinema and Media Studies
 event_url:
@@ -28,7 +28,7 @@ summary:
 abstract:
 
 # Talk start and end times.
-# End time can optionally be hidden by prefixing the line with `#`.
+End time can optionally be hidden by prefixing the line with `#`.
 date: 2019-01-03T20:40:11-04:00
 #date_end: 2019-01-06T20:40:11-04:00
 all_day: false
@@ -78,3 +78,4 @@ slides: ""
 # E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 # Otherwise, set `projects = []`.
 projects: []
++++
