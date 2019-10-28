@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Recent & Upcoming Talks"
-subtitle = "Cryptology, Steganography and Propaganda: The Exclusion and Inclusion Roles of Language in Human Communication"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -27,7 +27,7 @@ subtitle = "Cryptology, Steganography and Propaganda: The Exclusion and Inclusio
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "Conference Presentation"
     exclude_featured = false
     exclude_past = false
     exclude_future = false
@@ -38,7 +38,7 @@ subtitle = "Cryptology, Steganography and Propaganda: The Exclusion and Inclusio
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
 
 [design.background]
   # Apply a background color, gradient, or image.
