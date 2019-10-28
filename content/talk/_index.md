@@ -11,8 +11,7 @@ view: 2
 header:
   caption: ""
   image: ""
----
----
+
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Plundered Hearts: The Mostly Forgotten History of Romance Games"
